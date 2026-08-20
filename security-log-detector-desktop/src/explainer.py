@@ -11,6 +11,7 @@ derived from its feature values vs. the dataset-level baselines.
 import logging
 from typing import List
 
+# pyrefly: ignore [missing-import]
 import numpy as np
 import pandas as pd
 

@@ -7,7 +7,7 @@ brute-force attacks and off-hours access attempts.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 security-log-detector-desktop/
@@ -29,7 +29,7 @@ security-log-detector-desktop/
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 - **Python 3.10+** (must have `tkinter` available — standard on most installs)
 - `pip` for package installation
@@ -39,7 +39,7 @@ security-log-detector-desktop/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone / navigate to the project directory
 
@@ -73,7 +73,7 @@ python main.py
 
 ---
 
-## 🖥️ Using the Application
+## Using the Application
 
 ### Loading a log file
 
@@ -129,7 +129,7 @@ of your choice.
 
 ---
 
-## 📋 Supported Log Format
+##  Supported Log Format
 
 Standard Linux/OpenSSH syslog format:
 
@@ -141,7 +141,7 @@ Jan  1 08:00:01 hostname sshd[99999]: Accepted password for ubuntu from 172.16.0
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```
 pandas>=2.0.0
